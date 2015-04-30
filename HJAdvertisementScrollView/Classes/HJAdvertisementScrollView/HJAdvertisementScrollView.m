@@ -228,7 +228,7 @@
 }
 
 /**
- *  封装循环滚动的方法
+ *  wrap scroll
  *
  *  @param scrollView scrollView
  */
